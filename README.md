@@ -1,3 +1,4 @@
+![logo](https://github.com/Aryan0-1Maurya/Aryan0-1Maurya/blob/main/logo-min.png)
 <h1 align="center">Hi 👋, I'm Âryāñ Màûryá</h1>
 <h3 align="center">Hungry -Web+App+Game Developer 🇮🇳</h3>
 <img align="right" alt="amsr" width="4rem" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" >
