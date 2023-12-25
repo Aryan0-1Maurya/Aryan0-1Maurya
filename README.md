@@ -39,4 +39,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan0-1maurya&" alt="aryan0-1maurya" /></p>
 
-<iframe src="https://amsrportfolio.netlify.app" width="100%"></iframe>
