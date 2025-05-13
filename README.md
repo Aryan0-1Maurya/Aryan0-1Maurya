@@ -38,4 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan0-1maurya&show_icons=true&locale=en" alt="aryan0-1maurya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan0-1maurya&" alt="aryan0-1maurya" /></p>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" align="center" />
 
